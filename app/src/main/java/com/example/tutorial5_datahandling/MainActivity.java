@@ -6,9 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
-
 import com.example.tutorial5_datahandling.Database.DBHelper;
-
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
